@@ -8,6 +8,7 @@ const App = (): JSX.Element => {
     <div>
       {t("welcome")}
       <p>HELLO</p>
+      <p>Testons les traductions</p>
     </div>
   );
 };
